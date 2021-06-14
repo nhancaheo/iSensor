@@ -1,0 +1,5 @@
+{
+    "idf.port": "/dev/cu.usbserial-0001",
+    "idf.flashType": "UART",
+    "idf.flashBaudRate": "921600",
+}
